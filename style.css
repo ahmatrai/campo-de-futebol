@@ -1,0 +1,64 @@
+.field{
+    background-color: green;
+    width: 680px;
+    height: 340px;
+}
+
+.linha{
+    border: solid 3px white;
+}
+
+.lateral{
+    position: relative;
+    margin: 10px;
+    width: 650px;
+    height: 310px;
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    top: 10px;
+}
+
+.area{
+    width: 70px;
+    height: 130px;
+}
+
+.left{
+    border-left: 0;
+}
+
+.right{
+    border-right: 0;
+}
+
+.midfield{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+
+.bolinha{
+    background-color: white;
+    border: solid 1px grey;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    position: absolute; 
+}
+
+.b1{
+    left: 83px;
+    top: 113px;
+}
+
+.b2{
+    left: 345px;
+    top: 60px;
+}
+
+.b3{
+    left: 580px;
+    top: 220px;
+}
+
